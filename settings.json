@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.19.3"
+    "ip": "sayanms.aternos.me",
+    "port": 53797,
+    "version": "1.21.7"
   },
 
   "position": {
